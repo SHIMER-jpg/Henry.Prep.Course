@@ -1,0 +1,23 @@
+h1{
+  color:bisque
+}
+
+img{
+  size: 400px;
+}
+
+.divClass{
+  height: 600px;
+  width: 500px;
+  background-color: rgb(202, 131, 131);
+}
+
+#spanId{
+  font-size: 25px;
+  margin: 50px;
+}
+
+#thirdDiv{
+  padding:50px;
+  border: 1px dashed rgba(185,0,95,0.49);
+}
